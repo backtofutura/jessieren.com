@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<div class="container">
+<article class="project">
+
+  <div class="project-hero" style="
+    background: url('{{ page.hero }}') no-repeat center center;
+    background-size: cover;">
+  </div>
+
+  <section class="project-header row">
+    <div class="nine columns">
+      <h1 class="project-title">{{ page.title }}</h1>
+      <p class="project-intro">{{ page.meta['intro'] }}</p>
+    </div>
+    <section class="project-metadata three columns">
+      <time class="project-date">{{ page.meta['date'] }}</time>
+      <ul>
+      {% for category in post.taxonomy['Categories'] %}
+        <li>&mdash;{{ category }}</li>
+      {% endfor %}
+      </ul>
+      <a class="project-link" href="{{ post.meta['link'] }}">
+        {{ post.meta['link'] }}
+      </a>
+    </section>
+  </section>
+
+  {{ content }}
+
+  {% if parent %}
+    <a href="{{ parent.url }}">&larr; Back to {{ parent.title }}</a>
+  {% endif %}
+
+</article>
+</div>

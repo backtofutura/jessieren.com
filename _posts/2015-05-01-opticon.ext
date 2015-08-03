@@ -1,0 +1,19 @@
+---
+layout: project
+title:  "Optimizely Opticon Conference"
+date:   2015-05-01
+categories:
+hero: /uploads/opticon/opticon-cover.png
+thumb: /uploads/thumb/thumb-opticon.png
+order: 2
+---
+Opticon is Optimizely’s annual user conference. For 2015, we chose to brand the event in-house. It’s still a work in progress, so I’ll be updating the page when the project is complete. For now, I’m posting some process shots of my contributions.
+
+<img src="/uploads/opticon/opticon-wordmap.jpg">
+<p class="text-caption">Word dump turned word map.</p>
+<img src="/uploads/opticon/opticon-test.gif">
+<p class="text-caption">Animating some tests.</p>
+<img src="/uploads/opticon/opticon-concept.gif">
+<p class="text-caption">Where the concept was born.</p>
+<img src="/uploads/opticon/opticon-tracks.png">
+<p class="text-caption">Some track icons</p>

@@ -1,0 +1,27 @@
+---
+layout: project
+title:  "Optimizely Ebooks"
+date:   2015-05-01
+categories:
+hero: /uploads/ebooks/eop-cover.png
+thumb: /uploads/thumb/thumb-ebook.png
+order: 6
+---
+Designed various ebooks for Optimizely. The Experience Optimization Playbook is Optmizely’s most downloaded ebook, with 800+ downloads within the first 24 hours of launching. Below are some pages from the ebook.
+
+<section class="row"><div class="one-half column"><img src="/uploads/ebooks/eop01.png"></div><div class="one-half column"><img src="/uploads/ebooks/eop02.png"></div>
+</section>
+
+<section class="row"><div class="one-half column"><img src="/uploads/ebooks/eop03.png"></div><div class="one-half column"><img src="/uploads/ebooks/eop04.png"></div>
+</section>
+
+<h2>Statistics Ebook</h2>
+<p>This ebook was part of the <a href="http://www.jessieren.com/work/stats/">Stats Engine educational campaign launch. </a></p>
+
+<img src="/uploads/ebooks/stats-cover-4.png">
+
+<section class="row"><div class="one-half column"><img src="/uploads/ebooks/stats01.png"></div><div class="one-half column"><img src="/uploads/ebooks/stats02.png"></div>
+</section>
+
+<section class="row"><div class="one-half column"><img src="/uploads/ebooks/stats03.png"></div><div class="one-half column"><img src="/uploads/ebooks/stats04.png"></div>
+</section>

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jessie Ren</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 29 Jul 2015 14:48:39 -0700</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2015 14:48:39 -0700</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Optimizely Stats Engine</title>
+        <description>Stats Engine, a newly patented statistical framework for A/B testing, makes Optimizely the first of all A/B testing products in the market to provide always-valid experiment results, eliminating the need to wait to check results and to set sample sizes. To promote this landmark product change, Optimizely launched an educational campaign—I focused on designing the “resources” landing page and an ebook.
+
+&lt;img src=&quot;/uploads/stats/stats-tom.png&quot;&gt;
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;six columns&quot;&gt;&lt;h2&gt;Storytelling with a Persona&lt;/h2&gt;&lt;/section&gt;&lt;br&gt;
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;p&gt;Originally, we wanted to create a fun &amp; educational video about Stats Engine as part of the campaign launch. I quickly threw together some storyboards about our persona Tom, who’s an A/B testing hero at his company, and a scenario about how statistics affects his job. Unfortunately, this project was cut—however, the process helped the team see value in how this product change could affect our customers. By creating this persona and scenario, we were able to pull out important questions like:&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;ul&gt;&lt;li&gt;—“How does Stats Engine effect Tom?” &lt;/li&gt;&lt;li&gt;—“Why should Tom care about stats?” &lt;/li&gt; &lt;li&gt;—“How much stats would Tom know off-hand?” &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+These questions helped answer and guide much of the content creation on the landing page, which went through several iterations.&lt;/p&gt;&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;img src=&quot;/uploads/stats/stats-storyanalog.png&quot;&gt;
+&lt;p class=&quot;text-caption&quot;&gt;Initial analog storyboard&lt;/p&gt;
+
+&lt;img src=&quot;/uploads/stats/stats-storydigital.png&quot;&gt;
+&lt;p class=&quot;text-caption&quot;&gt;Digital storyboards with captions&lt;/p&gt;
+
+&lt;img src=&quot;/uploads/stats/stats-wireframes.png&quot;&gt;
+&lt;p class=&quot;text-caption&quot;&gt;Wireframe iterations&lt;/p&gt;
+
+&lt;section class=&quot;row&quot;&gt;&lt;h2&gt;Designing content together&lt;/h2&gt;&lt;/section&gt;
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;p&gt;We broke traditional work silos with this landing page by having content and design work in parallel. I was lucky to work with a collaborative content team! We sat together in a room and wrote down the goals of the page, aligned on a voice &amp; tone, and nailed down the structure of the page—all the essentials of a brief done in a 20 minute meeting. Together, we combed through the initial drafts of copy and decided on accompanying visuals. Most importantly, we had &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;one-half column&quot;&gt;&lt;p&gt;a theme and a story to tell for the page. I suggested the concept/theme of old vs. new and it stuck. Many A/B testing platforms are still using traditional statistics (old), so by talking about the old, we were able to really showcase the new Stats Engine. This leant itself to visuals like analog drafting tools you don’t use often such as calculators next to digital tools you use all the time such as a laptop. &lt;/p&gt;&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;img src=&quot;/uploads/stats/stats-concept.png&quot;&gt;
+&lt;p class=&quot;text-caption&quot;&gt;Traditional vs New concept&lt;/p&gt;
+
+
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;h3&gt;Results before Stats Engine&lt;/h3&gt;
+&lt;img src=&quot;/uploads/stats/stats-new.png&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;one-half column&quot;&gt;&lt;h3&gt;Results with Stats Engine&lt;/h3&gt;
+&lt;img src=&quot;/uploads/stats/stats-old.png&quot;&gt;&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;p&gt;Stats Engine helps correct a number of statistical errors, and we wanted to show that visually. The big error stats engine corrects for is “continuous monitoring”, or peeking at your results before reaching statistical significance. The left graph shows volatility while the right graph shows stability.&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;one-half column&quot;&gt;&lt;p&gt;Instead of creating two graphics, I proposed combining the two to make one, easily shareable graphic. (Below) With some statistician assistance, I overlayed the two graphs, matching the data points as closely as possible. &lt;/p&gt;&lt;/div&gt;
+&lt;/section&gt;
+
+
+&lt;img src=&quot;/uploads/stats/stats-graphic.png&quot;&gt;
+&lt;br&gt;
+&lt;section class=&quot;row&quot;&gt;&lt;h2&gt;A credible look and feel&lt;/h2&gt;&lt;/section&gt;
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;p&gt;Optimizely is still a young product on the market, so a big factor in the visual design was maintaining a credible and trustworthy look and feel that aligns with the “branding” of our marketing site. As a designer, I pride myself on restraint, but this page was challenging. Selfishly, I wanted it to look &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;one-half column&quot;&gt;&lt;p&gt;exciting, to show off how cool our stats are with animation, scroll effects, and bright, new colors. But with constraints like localization, potential evergreen content, responsiveness, and 72 hours, I kept the page as clean as possible. The page received over 7,000 views in 2 days, &lt;a href=&quot;http://optimizely.com/statistics&quot;&gt;check it out!&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;img src=&quot;/uploads/stats/stats-site.png&quot;&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 00:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/stats/</link>
+        <guid isPermaLink="true">http://yourdomain.com/stats/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Sketches</title>
+        <description>Pulled from the depths of my artboards.
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;img src=&quot;/uploads/sketches/sketch-stats.png&quot;&gt;&lt;/div&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;img src=&quot;/uploads/sketches/sketch-tom.png&quot;&gt;&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;img src=&quot;/uploads/sketches/sketch-dev.png&quot;&gt;&lt;/div&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;img src=&quot;/uploads/sketches/sketch-dev2.png&quot;&gt;&lt;/div&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 00:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/sketches/</link>
+        <guid isPermaLink="true">http://yourdomain.com/sketches/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Partner Program</title>
+        <description>Optimizely is launching a new Partners Program. I designed a few landing pages as part of the launch (coming soon). We&#39;re also working on developing an illustration style to be used on the marketing site —below are some in-progress shots of the graphics for the page.
+
+&lt;img src=&quot;/uploads/partner-program/partner-process.png&quot;&gt;
+
+&lt;img src=&quot;/uploads/partner-program/partner-color.png&quot;&gt;
+
+&lt;img src=&quot;/uploads/partner-program/partner-colorbg.png&quot;&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 00:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/partner-program/</link>
+        <guid isPermaLink="true">http://yourdomain.com/partner-program/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Optimizely One-offs</title>
+        <description>Here’s the small collection of some fun one-off stuff I did at Optimizely.
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;h2&gt;Optiverse Icons&lt;/h2&gt;&lt;/div&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;p&gt;Optiverse is Optimizely’s community support and knowledge base for all things related to testing. Optimizely Academy is a hub for taking courses on how to use Optimizely. I designed some icons to show each course level. &lt;/p&gt;&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;img src=&quot;/uploads/optimizely-oneoffs/illust-academy.png&quot;&gt;
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;.&lt;/div&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;p&gt;Exploring different metaphors. The first row deals with the concept of space and atomic physics (disclaimer on the accuracy of the depiction as I admit to knowing very little about the topic). The second and third row have to do with the evolution of flight and fire respectively. &lt;/p&gt;&lt;/div&gt;&lt;/section&gt;
+
+&lt;img src=&quot;/uploads/optimizely-oneoffs/illust-academy-ss.jpg&quot;&gt;
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;
+&lt;p&gt;The first concept was chosen because the style could scale when more courses are added and is seen implemented above. &lt;/p&gt;&lt;/div&gt;&lt;/section&gt;
+
+
+&lt;h2&gt;Optimizely 200 employees shirt&lt;/h2&gt;
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;p&gt;I was the 201st employee hired at Optimizely. Even though I was only at the company for 4 months, so much had happened! I wanted to highlight internal milestones of that year. MC Commerce debuted, we raised our Series B, had our first user conference…what better than to showcase our company &quot;mascot&quot; on a $200 bill with the company logo in the background? &lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;one-half column&quot;&gt;&lt;img src=&quot;/uploads/optimizely-oneoffs/illust-tshirtdesign.png&quot;&gt;&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;
+&lt;img src=&quot;/uploads/optimizely-oneoffs/illust-jodiepic.jpg&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;one-half column&quot;&gt;&lt;img src=&quot;/uploads/optimizely-oneoffs/illust-jodiesketch.jpg&quot;&gt;&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;img src=&quot;/uploads/optimizely-oneoffs/illust-tshirt.jpg&quot;&gt;
+
+&lt;img src=&quot;/uploads/optimizely-oneoffs/illust-devicon.gif&quot;&gt;
+&lt;img src=&quot;/uploads/optimizely-oneoffs/illust-flywheel.png&quot;&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 00:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/optimizely-oneoffs/</link>
+        <guid isPermaLink="true">http://yourdomain.com/optimizely-oneoffs/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Optimizely Opticon Conference</title>
+        <description>Opticon is Optimizely’s annual user conference. For 2015, we chose to brand the event in-house. It’s still a work in progress, so I’ll be updating the page when the project is complete. For now, I’m posting some process shots of my contributions.
+
+&lt;img src=&quot;/uploads/opticon/opticon-wordmap.jpg&quot;&gt;
+&lt;p class=&quot;text-caption&quot;&gt;Word dump turned word map.&lt;/p&gt;
+&lt;img src=&quot;/uploads/opticon/opticon-test.gif&quot;&gt;
+&lt;p class=&quot;text-caption&quot;&gt;Animating some tests.&lt;/p&gt;
+&lt;img src=&quot;/uploads/opticon/opticon-concept.gif&quot;&gt;
+&lt;p class=&quot;text-caption&quot;&gt;Where the concept was born.&lt;/p&gt;
+&lt;img src=&quot;/uploads/opticon/opticon-tracks.png&quot;&gt;
+&lt;p class=&quot;text-caption&quot;&gt;Some track icons&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 00:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/opticon/</link>
+        <guid isPermaLink="true">http://yourdomain.com/opticon/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Optimizely Mobile Onboarding</title>
+        <description>Optimizely for mobile allows you to A/B test your mobile apps. I helped with the visual design of the mobile onboarding experience. Since it’s one of the first things a customer sees when she signs up, we wanted the visual design to be on brand.
+
+&lt;img src=&quot;/uploads/mobile-onboard/mobile-sketch.jpg&quot;&gt;
+
+&lt;p class=&quot;text-caption&quot;&gt;&lt;/p&gt;
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;h2&gt;Before&lt;/h2&gt;&lt;img src=&quot;/uploads/mobile-onboard/mobile-old01.png&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;one-half column&quot;&gt;&lt;h2&gt;After&lt;/h2&gt;&lt;img src=&quot;/uploads/mobile-onboard/mobile-new01.png&quot;&gt;&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;p&gt;To start using the product, all you need to do is install the Optimizely for Mobile SDK. You can either install the code snippet yourself or send the instructions to someone else. &lt;/p&gt;
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;h2&gt;Before&lt;/h2&gt;&lt;img src=&quot;/uploads/mobile-onboard/mobile-old02.png&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;one-half column&quot;&gt;&lt;h2&gt;After&lt;/h2&gt;&lt;img src=&quot;/uploads/mobile-onboard/mobile-new02.png&quot;&gt;&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;p&gt;Installing the SDK yourself. &lt;/p&gt;
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;h2&gt;Before&lt;/h2&gt;&lt;img src=&quot;/uploads/mobile-onboard/mobile-old03.png&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;one-half column&quot;&gt;&lt;h2&gt;After&lt;/h2&gt;&lt;img src=&quot;/uploads/mobile-onboard/mobile-new03.png&quot;&gt;&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;p&gt;Emailing SDK install instructions.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 00:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/mobile-onboard/</link>
+        <guid isPermaLink="true">http://yourdomain.com/mobile-onboard/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Optimizely Mobile Landing Page</title>
+        <description>Optimizely for mobile is just that, A/B testing for mobile apps done through a web interface. For this campaign, I designed a product marketing landing page. The goal of the page was to get as many signups for beta as possible.
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/126024904&quot; width=&quot;960&quot; height=&quot;575&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p class=&quot;text-caption&quot;&gt;Initial wireframe prototype showing interactions and scroll effects on the page.&lt;/p&gt;
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;six columns&quot;&gt;&lt;h2&gt;Showcasing product features&lt;/h2&gt;&lt;/div&gt;&lt;/section&gt;
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;p&gt;We wanted to showcase features of the mobile product in an interactive way, similar to a demo “try before you buy”, on the page. However, building out that kind of interactivity can be really resource intensive. We decided to try making “videos” of the product features instead. I came up with some testing&lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;one-half column&quot;&gt;&lt;p&gt;
+ideas using Airbnb’s app as an example, since we’d gotten
+good customer feedback about trusting Airbnb as an example. Although the page was originally designed for our iOS beta launch, I wanted to keep the phones neutral so we could reuse the graphics for our Android launch as well. &lt;/p&gt;&lt;/div&gt;&lt;/section&gt;
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;p&gt;1. Making visual changes with the WYSIWYG Editor&lt;/p&gt;&lt;p&gt;
+Say you want to test connected sign-ins and predict that more users will login through Facebook than Google. You can drag and drop the FB login button to the top of the screen. &lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;one-half column&quot;&gt;&lt;img src=&quot;/uploads/mobile-lp/mobilelp01.gif&quot;&gt;&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;p&gt;2. Making code level changes with developer tools&lt;/p&gt;&lt;p&gt;
+Say you want to be able to test app engagement with and without a login screen. Using developer tools, you can custom create an on/off switch for a login screen.&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;one-half column&quot;&gt;&lt;img src=&quot;/uploads/mobile-lp/mobilelp02.gif&quot;&gt;&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;p&gt;3. Instantly roll out changes. &lt;/p&gt;&lt;p&gt;
+Now that you have a couple of variations to test, you can deploy the changes without having to go through an appstore review. In this example we show the two test variations we made through the WYSIWYG editor and Developer Tools.&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;one-half column&quot;&gt;&lt;img src=&quot;/uploads/mobile-lp/mobilelp03.gif&quot;&gt;&lt;/div&gt;
+&lt;/section&gt;
+
+The two animated viedos that didn&#39;t make the cut.
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;img src=&quot;/uploads/mobile-lp/mobilelp-04.gif&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;one-half column&quot;&gt;&lt;img src=&quot;/uploads/mobile-lp/mobilelp-05.gif&quot;&gt;&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;h2&gt;Hacking the header image&lt;/h2&gt;
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;We needed a specific header image that was difficult to find so we made our own using free stock photos and a customized app screen. Though it was a bit hacky, this allowed us to have complete control over the header image as well as provide a reusable process for future product marketing pages.&lt;/div&gt;&lt;/section&gt;
+
+
+&lt;img src=&quot;/uploads/mobile-lp/mobilelp-photo01.jpg&quot;&gt;
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;p&gt;First step was finding an nicely photoshopped hand holding a phone, then add your own screen. Second step was finding a stock photo to put it on.&lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;one-half column&quot;&gt;&lt;p&gt;Create the illusion of depth of field by blurring the stock photo behind the photoshopped hand holding a phone.
+&lt;/p&gt;&lt;/div&gt;
+&lt;/section&gt;
+
+
+&lt;img src=&quot;/uploads/mobile-lp/mobilelp-photo02.jpg&quot;&gt;
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;p&gt;Blur the entire image, just as you might with any stock photo you want to put text over. &lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;one-half column&quot;&gt;&lt;p&gt;Overlay a brand color on the image to make the treatment specific to your company’s.
+&lt;/p&gt;&lt;/div&gt;
+&lt;/section&gt;
+
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;h2&gt;Animated gif timing logic&lt;/h2&gt;&lt;/div&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;p&gt;Animations and videos can really affect page performance. When building out the page, we decided on gifs (&lt;a href=&quot;http://invisionapp.com&quot; target=&quot;_new&quot;&gt;similar to InVision&lt;/a&gt;) due to file sizes and talked through the timing of when the gifs play as you’re scrolling down the page as well as how that’d translate on mobile since there aren’t hover states. &lt;a href=&quot;http://optimizely.com/mobile&quot; target=&quot;_new&quot;&gt;Check out the page&lt;/a&gt; and see how we did it. Mockup of the final site below.&lt;/p&gt;&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;img src=&quot;/uploads/mobile-lp/mobilelp-site.png&quot;&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 00:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/mobile-lp/</link>
+        <guid isPermaLink="true">http://yourdomain.com/mobile-lp/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Freelance</title>
+        <description>Posters, illustrations, and logos.
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;img src=&quot;/uploads/freelance/04-mwposter.jpg&quot;&gt;&lt;/div&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;img src=&quot;/uploads/freelance/03-bowlingposter.jpg&quot;&gt;&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;img src=&quot;/uploads/freelance/01-jazzposter.jpg&quot;&gt;
+
+&lt;p&gt;Union Stations in the midwest&lt;/p&gt;
+&lt;img src=&quot;/uploads/freelance/unionstation.jpg&quot;&gt;
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;img src=&quot;/uploads/freelance/nietzchelogo.png&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;one-half column&quot;&gt;&lt;img src=&quot;/uploads/freelance/takefivelogo.png&quot;&gt;&lt;/div&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 00:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/freelance/</link>
+        <guid isPermaLink="true">http://yourdomain.com/freelance/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Optimizely Ebooks</title>
+        <description>Designed various ebooks for Optimizely. The Experience Optimization Playbook is Optmizely’s most downloaded ebook, with 800+ downloads within the first 24 hours of launching. Below are some pages from the ebook.
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;img src=&quot;/uploads/ebooks/eop01.png&quot;&gt;&lt;/div&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;img src=&quot;/uploads/ebooks/eop02.png&quot;&gt;&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;img src=&quot;/uploads/ebooks/eop03.png&quot;&gt;&lt;/div&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;img src=&quot;/uploads/ebooks/eop04.png&quot;&gt;&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;h2&gt;Statistics Ebook&lt;/h2&gt;
+&lt;p&gt;This ebook was part of the &lt;a href=&quot;http://www.jessieren.com/work/stats/&quot;&gt;Stats Engine educational campaign launch. &lt;/a&gt;&lt;/p&gt;
+
+&lt;img src=&quot;/uploads/ebooks/stats-cover-4.png&quot;&gt;
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;img src=&quot;/uploads/ebooks/stats01.png&quot;&gt;&lt;/div&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;img src=&quot;/uploads/ebooks/stats02.png&quot;&gt;&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;row&quot;&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;img src=&quot;/uploads/ebooks/stats03.png&quot;&gt;&lt;/div&gt;&lt;div class=&quot;one-half column&quot;&gt;&lt;img src=&quot;/uploads/ebooks/stats04.png&quot;&gt;&lt;/div&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 00:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/ebooks/</link>
+        <guid isPermaLink="true">http://yourdomain.com/ebooks/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Burn-the-Lot</title>
+        <description>Completed while interning at Propaganda3 in Kansas City. I designed uv textures and graphics for the in-house mobile app game Burn the Lot. Helped develop the visual theme for the punk carnival aesthetic under the creative direction of Cameron Calder. Assets included posters, character outfits, and various objects.
+
+&lt;img src=&quot;/uploads/burn-the-lot/character-skinning.jpg&quot;&gt;
+&lt;img src=&quot;/uploads/burn-the-lot/unity.jpg&quot;&gt;
+&lt;img src=&quot;/uploads/burn-the-lot/carnival01.jpg&quot;&gt;
+&lt;img src=&quot;/uploads/burn-the-lot/carnival02.jpg&quot;&gt;
+&lt;img src=&quot;/uploads/burn-the-lot/carnival03.jpg&quot;&gt;
+&lt;img src=&quot;/uploads/burn-the-lot/posters-incontext.jpg&quot;&gt;
+&lt;img src=&quot;/uploads/burn-the-lot/mockup.jpg&quot;&gt;
+&lt;img src=&quot;/uploads/burn-the-lot/icons.jpg&quot;&gt;
+&lt;img src=&quot;/uploads/burn-the-lot/btl-image-02.jpg&quot;&gt;
+</description>
+        <pubDate>Fri, 01 May 2015 00:00:00 -0700</pubDate>
+        <link>http://yourdomain.com/burn-the-lot/</link>
+        <guid isPermaLink="true">http://yourdomain.com/burn-the-lot/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

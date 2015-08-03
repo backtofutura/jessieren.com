@@ -1,0 +1,68 @@
+---
+layout: project
+title:  "Optimizely Mobile Landing Page"
+date:   2015-05-01
+categories:
+hero: /uploads/mobile-lp/mobilelp-cover.png
+thumb: /uploads/thumb/thumb-mobilelp.png
+order: 4
+---
+Optimizely for mobile is just that, A/B testing for mobile apps done through a web interface. For this campaign, I designed a product marketing landing page. The goal of the page was to get as many signups for beta as possible.
+
+<iframe src="https://player.vimeo.com/video/126024904" width="960" height="575" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<p class="text-caption">Initial wireframe prototype showing interactions and scroll effects on the page.</p>
+
+<section class="row"><div class="six columns"><h2>Showcasing product features</h2></div></section>
+
+<section class="row"><div class="one-half column"><p>We wanted to showcase features of the mobile product in an interactive way, similar to a demo “try before you buy”, on the page. However, building out that kind of interactivity can be really resource intensive. We decided to try making “videos” of the product features instead. I came up with some testing</p></div>
+<div class="one-half column"><p>
+ideas using Airbnb’s app as an example, since we’d gotten
+good customer feedback about trusting Airbnb as an example. Although the page was originally designed for our iOS beta launch, I wanted to keep the phones neutral so we could reuse the graphics for our Android launch as well. </p></div></section>
+
+<section class="row"><div class="one-half column"><p>1. Making visual changes with the WYSIWYG Editor</p><p>
+Say you want to test connected sign-ins and predict that more users will login through Facebook than Google. You can drag and drop the FB login button to the top of the screen. </p></div>
+
+<div class="one-half column"><img src="/uploads/mobile-lp/mobilelp01.gif"></div>
+</section>
+
+<section class="row"><div class="one-half column"><p>2. Making code level changes with developer tools</p><p>
+Say you want to be able to test app engagement with and without a login screen. Using developer tools, you can custom create an on/off switch for a login screen.</p></div>
+
+<div class="one-half column"><img src="/uploads/mobile-lp/mobilelp02.gif"></div>
+</section>
+
+<section class="row"><div class="one-half column"><p>3. Instantly roll out changes. </p><p>
+Now that you have a couple of variations to test, you can deploy the changes without having to go through an appstore review. In this example we show the two test variations we made through the WYSIWYG editor and Developer Tools.</p></div>
+
+<div class="one-half column"><img src="/uploads/mobile-lp/mobilelp03.gif"></div>
+</section>
+
+The two animated viedos that didn't make the cut.
+
+<section class="row"><div class="one-half column"><img src="/uploads/mobile-lp/mobilelp-04.gif"></div>
+<div class="one-half column"><img src="/uploads/mobile-lp/mobilelp-05.gif"></div>
+</section>
+
+<h2>Hacking the header image</h2>
+<section class="row"><div class="one-half column">We needed a specific header image that was difficult to find so we made our own using free stock photos and a customized app screen. Though it was a bit hacky, this allowed us to have complete control over the header image as well as provide a reusable process for future product marketing pages.</div></section>
+
+
+<img src="/uploads/mobile-lp/mobilelp-photo01.jpg">
+<section class="row"><div class="one-half column"><p>First step was finding an nicely photoshopped hand holding a phone, then add your own screen. Second step was finding a stock photo to put it on.</p></div>
+<div class="one-half column"><p>Create the illusion of depth of field by blurring the stock photo behind the photoshopped hand holding a phone.
+</p></div>
+</section>
+
+
+<img src="/uploads/mobile-lp/mobilelp-photo02.jpg">
+<section class="row"><div class="one-half column"><p>Blur the entire image, just as you might with any stock photo you want to put text over. </p></div>
+<div class="one-half column"><p>Overlay a brand color on the image to make the treatment specific to your company’s.
+</p></div>
+</section>
+
+
+<section class="row"><div class="one-half column"><h2>Animated gif timing logic</h2></div><div class="one-half column"><p>Animations and videos can really affect page performance. When building out the page, we decided on gifs (<a href="http://invisionapp.com" target="_new">similar to InVision</a>) due to file sizes and talked through the timing of when the gifs play as you’re scrolling down the page as well as how that’d translate on mobile since there aren’t hover states. <a href="http://optimizely.com/mobile" target="_new">Check out the page</a> and see how we did it. Mockup of the final site below.</p></div>
+</section>
+
+<img src="/uploads/mobile-lp/mobilelp-site.png">

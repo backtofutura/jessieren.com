@@ -1,0 +1,22 @@
+---
+layout: project
+title:  "Freelance"
+date:   2015-05-01
+categories:
+hero: /uploads/freelance/03-bowlingposter-1.png
+thumb: /uploads/thumb/thumb-poster.png
+order: 8
+---
+Posters, illustrations, and logos.
+
+<section class="row"><div class="one-half column"><img src="/uploads/freelance/04-mwposter.jpg"></div><div class="one-half column"><img src="/uploads/freelance/03-bowlingposter.jpg"></div>
+</section>
+
+<img src="/uploads/freelance/01-jazzposter.jpg">
+
+<p>Union Stations in the midwest</p>
+<img src="/uploads/freelance/unionstation.jpg">
+
+<section class="row"><div class="one-half column"><img src="/uploads/freelance/nietzchelogo.png"></div>
+<div class="one-half column"><img src="/uploads/freelance/takefivelogo.png"></div>
+</section>

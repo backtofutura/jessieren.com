@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="container">
+  <section class="layer blog">
+    <div class="project-list">
+    {% assign posts = site.posts | sort: 'order' %}
+    {% for post in posts  %}
+      <a class="project-item" href="{{ post.url }}">
+        <h4 class="overlay-title">
+          {{ post.title }}
+        </h4>
+        <img
+             src="{{ post.thumb }}">
+      </a>
+    {% endfor %}
+    </div>
+  </section>
+</div>

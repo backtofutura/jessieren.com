@@ -1,0 +1,32 @@
+---
+layout: project
+title:  "Optimizely Mobile Onboarding"
+date:   2015-05-01
+categories:
+hero: /uploads/mobile-onboard/mobile-cover.png
+thumb: /uploads/thumb/thumb-mobile.png
+order: 3
+---
+Optimizely for mobile allows you to A/B test your mobile apps. I helped with the visual design of the mobile onboarding experience. Since it’s one of the first things a customer sees when she signs up, we wanted the visual design to be on brand.
+
+<img src="/uploads/mobile-onboard/mobile-sketch.jpg">
+
+<p class="text-caption"></p>
+
+<section class="row"><div class="one-half column"><h2>Before</h2><img src="/uploads/mobile-onboard/mobile-old01.png"></div>
+<div class="one-half column"><h2>After</h2><img src="/uploads/mobile-onboard/mobile-new01.png"></div>
+</section>
+
+<p>To start using the product, all you need to do is install the Optimizely for Mobile SDK. You can either install the code snippet yourself or send the instructions to someone else. </p>
+
+<section class="row"><div class="one-half column"><h2>Before</h2><img src="/uploads/mobile-onboard/mobile-old02.png"></div>
+<div class="one-half column"><h2>After</h2><img src="/uploads/mobile-onboard/mobile-new02.png"></div>
+</section>
+
+<p>Installing the SDK yourself. </p>
+
+<section class="row"><div class="one-half column"><h2>Before</h2><img src="/uploads/mobile-onboard/mobile-old03.png"></div>
+<div class="one-half column"><h2>After</h2><img src="/uploads/mobile-onboard/mobile-new03.png"></div>
+</section>
+
+<p>Emailing SDK install instructions.</p>

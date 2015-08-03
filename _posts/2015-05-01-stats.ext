@@ -1,0 +1,65 @@
+---
+layout: project
+title:  "Optimizely Stats Engine"
+date:   2015-05-01
+categories:
+hero: /uploads/stats/stats-cover-2.png
+thumb: /uploads/thumb/thumb-stats.png
+order: 1
+---
+Stats Engine, a newly patented statistical framework for A/B testing, makes Optimizely the first of all A/B testing products in the market to provide always-valid experiment results, eliminating the need to wait to check results and to set sample sizes. To promote this landmark product change, Optimizely launched an educational campaign—I focused on designing the “resources” landing page and an ebook.
+
+<img src="/uploads/stats/stats-tom.png">
+
+<section class="row"><div class="six columns"><h2>Storytelling with a Persona</h2></section><br>
+<section class="row"><div class="one-half column"><p>Originally, we wanted to create a fun & educational video about Stats Engine as part of the campaign launch. I quickly threw together some storyboards about our persona Tom, who’s an A/B testing hero at his company, and a scenario about how statistics affects his job. Unfortunately, this project was cut—however, the process helped the team see value in how this product change could affect our customers. By creating this persona and scenario, we were able to pull out important questions like:</p></div><div class="one-half column"><ul><li>—“How does Stats Engine effect Tom?” </li><li>—“Why should Tom care about stats?” </li> <li>—“How much stats would Tom know off-hand?” </li>
+</ul>
+<p>
+These questions helped answer and guide much of the content creation on the landing page, which went through several iterations.</p></div>
+</section>
+
+<img src="/uploads/stats/stats-storyanalog.png">
+<p class="text-caption">Initial analog storyboard</p>
+
+<img src="/uploads/stats/stats-storydigital.png">
+<p class="text-caption">Digital storyboards with captions</p>
+
+<img src="/uploads/stats/stats-wireframes.png">
+<p class="text-caption">Wireframe iterations</p>
+
+<section class="row"><h2>Designing content together</h2></section>
+
+<section class="row"><div class="one-half column"><p>We broke traditional work silos with this landing page by having content and design work in parallel. I was lucky to work with a collaborative content team! We sat together in a room and wrote down the goals of the page, aligned on a voice & tone, and nailed down the structure of the page—all the essentials of a brief done in a 20 minute meeting. Together, we combed through the initial drafts of copy and decided on accompanying visuals. Most importantly, we had </p>
+</div>
+
+<div class="one-half column"><p>a theme and a story to tell for the page. I suggested the concept/theme of old vs. new and it stuck. Many A/B testing platforms are still using traditional statistics (old), so by talking about the old, we were able to really showcase the new Stats Engine. This leant itself to visuals like analog drafting tools you don’t use often such as calculators next to digital tools you use all the time such as a laptop. </p></div>
+</section>
+
+<img src="/uploads/stats/stats-concept.png">
+<p class="text-caption">Traditional vs New concept</p>
+
+
+
+<section class="row"><div class="one-half column"><h3>Results before Stats Engine</h3>
+<img src="/uploads/stats/stats-new.png"></div>
+<div class="one-half column"><h3>Results with Stats Engine</h3>
+<img src="/uploads/stats/stats-old.png"></div>
+</section>
+
+<section class="row"><div class="one-half column"><p>Stats Engine helps correct a number of statistical errors, and we wanted to show that visually. The big error stats engine corrects for is “continuous monitoring”, or peeking at your results before reaching statistical significance. The left graph shows volatility while the right graph shows stability.</p></div>
+
+<div class="one-half column"><p>Instead of creating two graphics, I proposed combining the two to make one, easily shareable graphic. (Below) With some statistician assistance, I overlayed the two graphs, matching the data points as closely as possible. </p></div>
+</section>
+
+
+<img src="/uploads/stats/stats-graphic.png">
+<br>
+<section class="row"><h2>A credible look and feel</h2></section>
+
+<section class="row"><div class="one-half column"><p>Optimizely is still a young product on the market, so a big factor in the visual design was maintaining a credible and trustworthy look and feel that aligns with the “branding” of our marketing site. As a designer, I pride myself on restraint, but this page was challenging. Selfishly, I wanted it to look </p>
+</div>
+
+<div class="one-half column"><p>exciting, to show off how cool our stats are with animation, scroll effects, and bright, new colors. But with constraints like localization, potential evergreen content, responsiveness, and 72 hours, I kept the page as clean as possible. The page received over 7,000 views in 2 days, <a href="http://optimizely.com/statistics">check it out!</a></p></div>
+</section>
+
+<img src="/uploads/stats/stats-site.png">
